@@ -1,0 +1,13 @@
+/* #E3FDFD #CBF1F5 #A6E3E9 #71C9CE */
+
+body {
+  background-color: #e3fdfd;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: rgb(194, 194, 194);
+  border-width: 5px;
+  width: 5%;
+}
